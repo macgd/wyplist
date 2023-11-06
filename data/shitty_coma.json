@@ -1,1 +1,17 @@
-
+{
+  "id": "n/a",
+      "name": "Shitty Coma",
+      "author": "YoGurt4",
+      "creators": ["YoGurt4"],
+      "verifier": "YoGurt4",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "Furaux",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
