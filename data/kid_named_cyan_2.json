@@ -1,0 +1,29 @@
+{
+  "id": "n/a",
+      "name": "kid named cyan 2",
+      "author": "CyanZX",
+      "creators": ["spl", "CyanZX"],
+      "verifier": "Furaux",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "YoGurt4",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+         {
+              "user": "wMac",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+       {
+              "user": "CyanZX",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
