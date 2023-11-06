@@ -1,1 +1,29 @@
-
+{
+  "id": "n/a",
+      "name": "Dr Harr D Recshun",
+      "author": "YoGurt4",
+      "creators": ["YoGurt4"],
+      "verifier": "YoGurt4",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "Filicha",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+           {
+              "user": "Furaux",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+           {
+              "user": "wMac",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
