@@ -7,11 +7,6 @@
       "verification": "n/a",
       "percentToQualify": 100,
       "records": [
-          {
-              "user": "Test Record",
-              "link": "n/a",
-              "percent": 100,
-              "hz": "69"
-          }
+         
       ]
 }
