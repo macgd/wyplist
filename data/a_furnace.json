@@ -1,1 +1,18 @@
+{
+  "id": "96245786",
+      "name": "A Furnace",
+      "author": "wMac",
+      "creators": ["YoGurt4"],
+      "verifier": "YoGurt4",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "wMac",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
 
