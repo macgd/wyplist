@@ -1,1 +1,15 @@
-
+[
+  "id": "n/a",
+      "name": "Acidic Crib",
+      "author": "wMac",
+      "creators": ["CyanZX", "wMac"],
+      "verifier": "wMac",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "Test Record",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "69"
+          },
