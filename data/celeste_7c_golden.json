@@ -1,1 +1,23 @@
-
+{
+  "id": "n/a",
+      "name": "celeste 7c golden",
+      "author": "Furaux",
+      "creators": ["Furaux"],
+      "verifier": "Furaux",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+          {
+              "user": "Yoshi",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+           {
+              "user": "YoGurt4",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
