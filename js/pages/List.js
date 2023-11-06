@@ -84,9 +84,6 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
-                    <div class="og">
-                        <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
-                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -105,7 +102,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Verifications and completions must include clicks, an FPS counter, and a cheat indicator (in level or on endscreen).
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -116,13 +113,18 @@ export default {
                     <p>
                         Do not use secret routes or bug routes
                     </p>
+                    <h3>Creation Requirements</h3>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Must not exceed 10 CPS at any point in the verification.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Must be under 30 seconds in length.
                     </p>
-                     <p>
+                    <p>
+                        Must not have stolen assets from other levels. (exceptions may apply)
+                    </p>
+                    <p>
+                        Must meet a minimum decoration standard (as determined by moderators)
                     </p>
                 </div>
             </div>
