@@ -1,1 +1,24 @@
-
+{
+  "id": "n/a",
+      "name": "skibidi challenge",
+      "author": "YoGurt4",
+      "creators": ["YoGurt4"],
+      "verifier": "YoGurt4",
+      "verification": "n/a",
+      "percentToQualify": 100,
+      "records": [
+        {
+              "user": "Yoshi",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+          
+          {
+              "user": "wMac",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
+      ]
+}
