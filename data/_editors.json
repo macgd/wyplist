@@ -1,7 +1,17 @@
 [
     {
+        "role": "WYP Youtube",
+        "name": "wMac",
+        "link": "www.youtube.com/@whatsyourpointercrate"
+    },
+    {
         "role": "owner",
-        "name": "macgd",
-        "link": "www.youtube.com/@whatsyourpointercrate/"
+        "name": "wMac",
+        "link": "www.youtube.com/@wmacc"
+    },
+    {
+        "role": "admin",
+        "name": "YoGurt4",
+        "link": "https://www.youtube.com/@yogurtiv3008"
     }
 ]
