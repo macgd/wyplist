@@ -7,6 +7,17 @@
       "verification": "https://youtu.be/3My1aHZ_2yI",
       "percentToQualify": 100,
       "records": [
-     
+     {
+              "user": "Iron",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          },
+          {
+              "user": "Yoshi",
+              "link": "n/a",
+              "percent": 100,
+              "hz": "360"
+          }
       ]
 }
